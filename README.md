@@ -3,13 +3,13 @@
 
 ## Luminis Network Links - Social Media
 
-Github - https://github.com/LuminisNobilite [Main]
+Github - https://github.com/LightCircle [Main]
 
-https://github.com/LightCircleLLC [Alt]
+https://github.com/ReitenPalace [Alt]
 
-Steam - https://steamcommunity.com/groups/LuminisNobilite [Main]
+Steam - https://steamcommunity.com/groups/LightCircle [Main]
 
-https://steamcommunity.com/groups/LightCircle [Alt]
+https://steamcommunity.com/groups/ReitenPalace [Alt]
 
 
 ### Luminis Network Links - Game Organizations
