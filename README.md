@@ -3,7 +3,7 @@
 
 ## Luminis Network Links - Social Media
 
-Github - https://github.com/LightCircle [Main]
+Github - https://github.com/LightCircleLLC [Main]
 
 https://github.com/ReitenPalace [Alt]
 
