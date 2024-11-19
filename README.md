@@ -1,2 +1,2 @@
-# Societas
- The Societas project main repository.
+# Anima
+ The Anima project main repository.
