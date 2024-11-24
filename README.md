@@ -1,5 +1,6 @@
 # Anima
- The Anima project main repository.
+ The Anima project main repository. This repository contains a series of links to different social media networks that
+are connected to the main Eclipse project.
 
 
 # Social Media Networks
