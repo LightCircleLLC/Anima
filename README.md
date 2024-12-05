@@ -22,10 +22,3 @@ https://github.com/ReitenPalace [Alt]
 
 **Steam** - https://steamcommunity.com/groups/LightCircle [Main]
 https://steamcommunity.com/groups/ReitenPalace [Alt]
-
-
-## Luminis Network Links - Game Organizations
-
-**Aether Gazer** - Enchanting (ID: 917793)
-
-**Honkai Impact 3rd** - ToySwordS (ID: 2121)
