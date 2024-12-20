@@ -16,7 +16,9 @@ are connected to the main Eclipse project.
 **Guilded** - Invite only
 
 **Github** - https://github.com/LightCircleLLC [Main]
+https://github.com/CrimsonFlowerLLC [Alt]
 
 **Matrix** - Invite only
 
 **Steam** - https://steamcommunity.com/groups/LightCircle [Main]
+https://steamcommunity.com/groups/CrimsonFlower [Alt]
