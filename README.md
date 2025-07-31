@@ -13,8 +13,6 @@ are connected to the main Eclipse project.
 
 ## Luminis Network Links - Chat/Gaming Platforms
 
-**Guilded** - Invite only
-
 **Github** - https://github.com/LightCircleLLC [Main]
 https://github.com/CrimsonFlowerLLC [Alt]
 
