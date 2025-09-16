@@ -14,7 +14,7 @@ are connected to the main Eclipse project.
 ## Luminis Network Links - Chat/Gaming Platforms
 
 **Github** - https://github.com/LightCircleLLC [Main]
-https://github.com/CrimsonFlowerLLC [Alt]
+https://github.com/LuminaCouncil [Alt]
 
 **Steam** - https://steamcommunity.com/groups/LightCircle [Main]
-https://steamcommunity.com/groups/CrimsonFlower [Alt]
+https://steamcommunity.com/groups/LuminaCouncil [Alt]
